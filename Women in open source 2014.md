@@ -1,4 +1,4 @@
-# How women are shaping the open source landscape
+# Women shaping open source
 There are 19 articles in this collection. Some are authored by women who lead the company where they work, others are part of the larger ecosystem, and a few are interviews.
 
 # Open Voices, Issue 8
