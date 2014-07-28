@@ -1,4 +1,4 @@
-ebooks
+eBooks
 ======
 
 Collections of our articles around a particular theme or topic.
