@@ -977,7 +977,7 @@ they have piles of T-shirts to prove it. Here we highlight some of the
 many women leaders on the Joomla! team. They are inspiring and have
 unique insights into the community.
 
-Ruth Cheesley {.Heading_20_2}
+Ruth Cheesley
 -------------
 
 Leadership role (current): Community Leadership Team (2013-present),
@@ -1044,7 +1044,7 @@ as an IT technician in a school, and then as a Data Analyst for the
 National Health Service working in Infection Control. I eventually left
 due to health reasons to start my own business.
 
-Dianne Henning {.Heading_20_2}
+Dianne Henning
 --------------
 
 Leadership role (current): JCM co-lead Editor (May 2010-present), JWC
@@ -1090,7 +1090,7 @@ opportunity to do things the way I want to, and I am still in transition
 mode. Transition is good. It allows for experimenting and making
 mistakes and learning from them without regret.
 
-Chiara Aliotta {.Heading_20_2}
+Chiara Aliotta
 --------------
 
 Leadership role (current): Brand Manager at Joomla! since January 2014
@@ -1172,7 +1172,7 @@ I play the clarinet from the age of 9, and I also took part in various
 singing competitions as a child. My teenage, secret dream was to be the
 front-woman in a rock band and sing like Alanis Morissette.
 
-Alice Grevet {.Heading_20_2}
+Alice Grevet
 ------------
 
 Leadership role (current): Secretary, Board of Open Source Matters, Inc.
@@ -1239,7 +1239,7 @@ At the same time she is blazing a trail in a highly male-dominated
 field, and will be an inspiration to this and future generations of
 women.
 
-Tessa Mero {.Heading_20_2}
+Tessa Mero
 ----------
 
 Leadership role (current): Joomla! Extensions Directory Listing Manager
@@ -1327,7 +1327,7 @@ Here, we share with you five more leaders in open source sharing wisdom
 and advice for men and women interested in learning more about how to
 have a successful career in open source.
 
-Sarah Watz {.Heading_20_2}
+Sarah Watz
 ----------
 
 Leadership role (current): Board Member of Open Source Matters, Inc.
@@ -1368,7 +1368,7 @@ What is something surprising about your life?
 
 I love scrapbooking and quilting.
 
-Marijke Stuivenberg {.Heading_20_2}
+Marijke Stuivenberg
 -------------------
 
 Leadership role (current): Assistant Secretary Board of Open Source
@@ -1469,7 +1469,7 @@ source and the accessibility of software for people all over the world,
 and I feel the same about being able to learn and let music be a part of
 your life.
 
-Claire Mandville {.Heading_20_2}
+Claire Mandville
 ----------------
 
 Leadership role (current): I am the Vulnerable Extensions List (VEL)
@@ -1509,7 +1509,7 @@ circa 1984 at school (EcoNet). I train Neighborhood Renewal areas in
 ICT. And, I hold physical security licenses and am also licensed to
 drive type A,B,C and D/ D1 vehicles in Europe.
 
-Andrea Tarr {.Heading_20_2}
+Andrea Tarr
 -----------
 
 Leadership role (current): Co-manager of Joomla User Group New England
@@ -1555,7 +1555,7 @@ dance groups, as dancer, teacher and choreographer. I took my notes in
 college in the Anglo Saxon script, I am a former librarian, and live
 with my cats. Oh, yes, and I knit, too.
 
-Jessica Dunbar {.Heading_20_2}
+Jessica Dunbar
 --------------
 
 Leadership role (current): Marketing Lead
@@ -2613,7 +2613,7 @@ said Burns. Users tend to primarily be hobbyists and students who are
 already somewhat familiar with the Arduino board and other open source
 electronics, but who have a need to 'miniaturize' their projects.
 
-About This Series {.P2}
+About This Series
 =================
 
 The Open Voices eBook series highlights ways open source tools and open
